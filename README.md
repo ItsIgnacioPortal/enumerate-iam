@@ -1,5 +1,9 @@
 ## Enumerate IAM permissions
 
+New feats compared to the main project and other forks:
+- Added opportunity to set custom endpoint url.
+- Added the AWS Services: Account, Bedrock and DocDB.
+
 Found a set of AWS credentials and have no idea which permissions it might have?
 
 ```console
